@@ -28,7 +28,7 @@ I only modify a couple of files to make it compatible with foundation (Zurb).
 
 ## Installing via Bower
 ```
-bower install ng-table-foundation
+bower install ng-tables-foundation
 ```
 
 ## Development
